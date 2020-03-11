@@ -5,3 +5,5 @@ This is a new line so will need a new commit
 This line was added in the branch feature_test2!
 
 This line was added in the branch feature_test3!
+
+This line was added in the branch feature_test4!
