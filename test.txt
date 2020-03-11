@@ -7,3 +7,5 @@ This line was added in the branch feature_test2!
 This line was added in the branch feature_test3!
 
 This line was added in the branch feature_test4!
+
+This line is going to cause a merge conflict!!
